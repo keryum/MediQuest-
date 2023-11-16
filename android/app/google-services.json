@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626996554069",
+    "project_id": "mediquest-b3985",
+    "storage_bucket": "mediquest-b3985.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626996554069:android:b719865479c53a2c2227dc",
+        "android_client_info": {
+          "package_name": "com.keryum.mediquest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuG_ZTMa0Nbg1ghNlUmLyaA9Y3-Z1BUsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
